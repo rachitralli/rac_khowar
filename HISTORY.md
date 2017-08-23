@@ -1,7 +1,7 @@
-Rac_Khowar Change History
+Rachitrali_Khowar Change History
 =======================
 
-0.6 (14 August 2017)
+1.0 (23 August 2017)
 -----------------
 
 * Added web and Android support
